@@ -1,0 +1,18 @@
+### Богослужебные указания на сегодня
+
+<div id="orthodox_calendar"></div>
+
+<script type="text/javascript" src="/assets/js/loadCalendar2r.js"></script>
+<script type="text/Javascript">
+ var today=new Date();       // Определить текущую дату
+ var mm=today.getMonth()+1;  // Определить текущий месяц
+ var dd=today.getDate();     // Определить текущий день
+ var yy=today.getFullYear(); // Определить текущий год
+ var dt=1;                   // Выводить дату в формате "григорианский/юлианский"
+ var hh=1;                   // Выводить заголовок
+ var ll=1;                   // Выводить жития святых
+ var tt=0;                   // Выводить тропари
+ var ss=1;                   // Выводить Евангельские чтения
+
+ loadCalendar2r(mm,dd,yy,dt,hh,ll,tt,ss,'ru');
+</script>

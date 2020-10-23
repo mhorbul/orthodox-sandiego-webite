@@ -8,14 +8,33 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
-author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+url: http://orthodox-sandiego.net
+title: "Русская Православная Церковь"
+tagline: "Св. Прав. Иоанна Кронштадтского"
+author:
+  name: Прот. Евгений
+  email: stjohnofkronstadtsandiego@gmail.com
+  picture: /assets/img/priest.jpg
+copyright: © 1970 St. John of Kronstadt Russian Orthodox Church, San Diego, CA, USA
+google_analytics: UA-162529893-1
+
+menu:
+  - title: "Служба on-line"
+    url:   /livestream/
+  - title: "Расписание"
+    url:   /schedule/
+  - title: "Пожертвования"
+    url:   /donations/
+  - title: "Блог"
+    url:   /blog/
+  - title: "COVID-19"
+    url:   /covid-19/
+
+youtube:
+  camera_id: UHIaj0yLmkA
+
+paypal:
+  link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UM6WXWZLVSAXJ
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -27,10 +46,18 @@ author :
 #
 production_url : http://username.github.io
 
-gems: ["jekyll-sitemap"]
+# gems: ["jekyll-sitemap"]
+theme: jekyll-theme-hydejack
+plugins:
+  - jekyll-avatar
+
+accent_image: /assets/icons/sidebar-bg1.jpg
+accent_color: rgb(79,177,186)
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
+permalink: pretty 
+
 JB :
   version : 0.3.0
 

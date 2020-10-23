@@ -1,46 +1,23 @@
 ---
-layout: page
-title: Hello World!
-tagline: Supporting tagline
+layout: about
+title: Русская православная церковь
+description: Св. Прав. Иоанна Кронштадтского
+hide_description: true
+cover:  true
 ---
-{% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+### Святой покровитель храма
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+![Святой Праведный Иоанн Кронштадтский](/assets/img/st-john-of-kronstadt.jpg)
 
-## Update Author Attributes
+Храм освящён в честь Святого Праведного Иоанна Кронштадского.
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+### Настоятель храма
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+Протоиерей Евгений Грушецкий.
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+<!--author-->
 
-    $ rm -rf _posts/core-samples
+Если вы хотите договорится о встрече с настоятелем отцом Евгением, вы можете позвонить ему по телефону <a href="tel:+1 (619) 371-0197">+1 (619) 371-0197</a>.
 
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+{% include components/orthodox-calendar.html %}
