@@ -29,6 +29,10 @@ menu:
     url:   /blog/
   - title: "COVID-19"
     url:   /covid-19/
+  - title: "Наш Храм"
+    url:   /
+  - title: "Вопросы и Ответы"
+    url:   /faq
 
 youtube:
   camera_id: UHIaj0yLmkA

@@ -5,4 +5,5 @@ gem "jekyll"
 # gem "pygments.rb"
 gem 'jekyll-theme-hydejack'
 gem "jekyll-avatar"
+gem 'jekyll-maps'
 
