@@ -34,7 +34,7 @@ cover:  true
 
 Если вы хотите договорится о встрече с настоятелем отцом Евгением, вы можете позвонить ему по телефону [+1 (619) 371-0197](tel:+1 (619) 371-0197).
 
-### Адрес Храма
+### Адрес храма
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3355.670097046782!2d-117.08681204862029!3d32.7479496926796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d9541c04a72c89%3A0xf992f718732f0cf!2sSt.%20John%20of%20Kronstadt%20Russian%20Orthodox%20Church!5e0!3m2!1sen!2sus!4v1603735198398!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 

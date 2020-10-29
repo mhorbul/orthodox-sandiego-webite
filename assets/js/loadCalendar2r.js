@@ -42,3 +42,17 @@ if (xmlHttp.readyState==4) // 4 = "loaded"
     }
  } 
 }
+
+
+function popup(mylink, windowname)
+{
+  if (! window.focus)return true;
+  var href;
+  if (typeof(mylink) == 'string')
+    href=mylink;
+  else
+    href=mylink.href;
+  var showWin = window.open(href, windowname, 'width=600,height=500,resizable=yes,dependent=yes,scrollbars=yes');
+  showWin.focus();
+  return false;
+}
