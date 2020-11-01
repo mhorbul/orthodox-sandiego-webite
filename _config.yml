@@ -17,6 +17,7 @@ author:
   picture: /assets/img/priest.jpg
 copyright: © 1970 St. John of Kronstadt Russian Orthodox Church, San Diego, CA, USA
 google_analytics: UA-162529893-1
+future: true
 
 menu:
   - title: "Служба on-line"
@@ -35,7 +36,7 @@ menu:
     url:   /faq
 
 youtube:
-  camera_id: UHIaj0yLmkA
+  camera_id: YudDzuDQ4Bc
 
 paypal:
   link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UM6WXWZLVSAXJ
