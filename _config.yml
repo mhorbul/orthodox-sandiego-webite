@@ -15,6 +15,10 @@ author:
   name: Прот. Евгений
   email: stjohnofkronstadtsandiego@gmail.com
   picture: /assets/img/priest.jpg
+#  social:
+#    platform: youtube
+#    username: https://www.youtube.com/channel/UCN-YZw5pAd_nnahAHvDo8Yg
+    
 copyright: © 1970 St. John of Kronstadt Russian Orthodox Church, San Diego, CA, USA
 google_analytics: UA-162529893-1
 future: true
@@ -36,7 +40,7 @@ menu:
     url:   /faq
 
 youtube:
-  camera_id: YudDzuDQ4Bc
+  camera_id: 1mwQ8Q1Sylg
 
 paypal:
   link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UM6WXWZLVSAXJ
