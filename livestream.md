@@ -9,5 +9,7 @@ hide_description: true
 Вы можете учавствовать в богослужениях дистанционно, находясь у себя дома.
 
 [Расписание Богослужений](/schedule/)
+<br /><br />
+<iframe allowfullscreen webkitallowfullscreen mozallowfullscreen src="https://video.nest.com/embedded/live/NUOlgSUIOC?autoplay=0" frameborder="0" width="720" height="576"></iframe>
 
-<iframe allowfullscreen webkitallowfullscreen mozallowfullscreen src="https://video.nest.com/embedded/live/NUOlgSUIOC?autoplay=1" id="video" frameborder="0" width="960" height="540"></iframe>
+Если вы испытаваете проблемы со встроенным проигрывателем живой трансляции, пожалуйста, [откройте трансляцию в отдельном окне](https://video.nest.com/embedded/live/NUOlgSUIOC){:target="_blank"}.
