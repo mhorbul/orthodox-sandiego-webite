@@ -22,6 +22,7 @@ author:
 copyright: © 1970 St. John of Kronstadt Russian Orthodox Church, San Diego, CA, USA
 google_analytics: UA-162529893-1
 future: true
+clap_button: false
 
 menu:
   - title: "Служба on-line"
