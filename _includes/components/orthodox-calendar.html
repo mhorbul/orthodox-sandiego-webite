@@ -4,15 +4,15 @@
 
 <script type="text/javascript" src="/assets/js/loadCalendar2r.js?v={{ site.time | date:'%s' }}"></script>
 <script type="text/Javascript">
- var today=new Date();       // Определить текущую дату
- var mm=today.getMonth()+1;  // Определить текущий месяц
- var dd=today.getDate();     // Определить текущий день
- var yy=today.getFullYear(); // Определить текущий год
- var dt=1;                   // Выводить дату в формате "григорианский/юлианский"
- var hh=1;                   // Выводить заголовок
- var ll=1;                   // Выводить жития святых
- var tt=0;                   // Выводить тропари
- var ss=1;                   // Выводить Евангельские чтения
+ var today=new Date();     
+ var mm=today.getMonth()+1;
+ var dd=today.getDate();   
+ var yy=today.getFullYear();
+ var dt=1;                  
+ var hh=1;                  
+ var ll=1;                  
+ var tt=0;                  
+ var ss=1;                  
 
 
  loadCalendar2r(mm,dd,yy,dt,hh,ll,tt,ss,'ru');
