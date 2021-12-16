@@ -15,6 +15,9 @@ image: /assets/img/posts/2021-09-12-icon-softener-of-evil-hearts.jpg
 {:.note title="Истрия чудотворного образа"}
 
 Интервью с хранителем иконы можно почитать на [здесь](https://pravoslavie.ru/32416.html).
+Interview with the icon keepr in English [here](https://pravoslavie.ru/39041.html).
+
+О храме-часовне, в котором хранится чудотворная икона, можно почитать (здесь)[http://www.letovochurch.ru/pripisnye-khramy/khram-bathurino/svjatyni-khrama].
 
 Пресвятая Богородице, умягчи наши сердца.
 
