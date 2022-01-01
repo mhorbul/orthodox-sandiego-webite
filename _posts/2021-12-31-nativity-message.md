@@ -2,6 +2,10 @@
 layout: post
 title: Рождественское послание Правящeго Архиерея
 image: /assets/img/posts/2021-12-31-nativity-message.jpg
+related_posts:
+  - _posts/2022-01-01-water-blessing.md
+  - _posts/2021-01-18-epiphany.md
+  - _posts/2021-01-04-happy-nativity.md
 ---
 
 <strong>Христосъ Раждается! Славите!</strong>
