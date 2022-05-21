@@ -13,7 +13,7 @@ else if (window.ActiveXObject)
   
 if (xmlHttp!=null)
   {
-      var par="/orthodox_calendar/" + lang;
+      var par="https://calendar.orthodox-sandiego.net/orthodox_calendar/" + lang;
   par=par+"?month="+mm + "&today="+dd + "&year="+yy + "&dt="+dt + "&header="+hh + "&lives="+ll + "&trp="+tt + "&scripture="+ss;
   par=par+"&sid="+Math.random();
 
