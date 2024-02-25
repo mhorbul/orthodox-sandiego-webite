@@ -10,4 +10,4 @@ hide_description: true
 
 [Расписание Богослужений](/schedule/)
 <br /><br />
-Все богослужения храма Святого Праведного Иоанна Крондштадтского в Сан-Диего транислируются на нашем [YouTube канале](https://www.youtube.com/channel/UCN-YZw5pAd_nnahAHvDo8Yg).
+Все богослужения храма Святого Праведного Иоанна Крондштадтского в Сан-Диего транислируются на нашем [YouTube канале](https://youtube.com/@stjohnkronstadt573).
