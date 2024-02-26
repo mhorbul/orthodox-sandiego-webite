@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Молитва во время распространения вредоносного поветрия
+title: Школьные новости
 ---
 
 {% include components/quarantine.md %}
