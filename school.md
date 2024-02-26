@@ -3,7 +3,7 @@ layout: page
 title: Школьные новости
 ---
 
-{% include components/quarantine.md %}
+<! {% include components/quarantine.md %} --> 
 
 Тексты молитвенных прошений [утверждены](http://www.patriarchia.ru/db/text/5610433.html) Святейшим Патриархом Московским и всея Руси Кириллом.
 
