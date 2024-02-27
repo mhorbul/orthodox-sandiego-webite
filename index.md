@@ -9,8 +9,6 @@ cover:  true
 * Оглавление
 {:toc title="Оглавление" .large-only}
 
-<! {% include components/quarantine.md %} --> 
-
 ### Святой покровитель храма
 
 ![Святой Праведный Иоанн Кронштадтский](/assets/img/st-john-of-kronstadt.jpg#right)
