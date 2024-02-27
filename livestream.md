@@ -4,7 +4,6 @@ title: Трансляция богослужений
 hide_description: true
 ---
 
-<! {% include components/quarantine.md %} --> 
 
 Вы можете учавствовать в богослужениях дистанционно, находясь у себя дома.
 
