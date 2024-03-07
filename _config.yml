@@ -39,7 +39,9 @@ menu:
     url:   /
   - title: "Вопросы и Ответы"
     url:   /faq
-
+  - title: "Праздники"
+    url:   /holidays
+    
 youtube:
   camera_url: https://youtu.be/X75PLKp1ttU 
 livestream:
