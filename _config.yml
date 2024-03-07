@@ -38,9 +38,9 @@ menu:
   - title: "Наш Храм"
     url:   /
   - title: "Вопросы и Ответы"
-    url:   /faq
+    url:   /faq/
   - title: "Праздники"
-    url:   /holidays
+    url:   /holidays/
     
 youtube:
   camera_url: https://youtu.be/X75PLKp1ttU 
