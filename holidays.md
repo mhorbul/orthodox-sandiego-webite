@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Масленицa
+title: Лагерь бездомных 
 hide_description: true
 ---
 
