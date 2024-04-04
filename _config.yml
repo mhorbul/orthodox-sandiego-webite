@@ -39,8 +39,8 @@ menu:
     url:   /
   - title: "Вопросы и Ответы"
     url:   /faq/
-  - title: "Лагерь бездомных"
-    url:   /holidays
+# - title: "Лагерь бездомных"
+#    url:   /holidays
     
 youtube:
   camera_url: https://youtu.be/X75PLKp1ttU 
