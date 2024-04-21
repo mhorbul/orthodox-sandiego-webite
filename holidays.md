@@ -6,4 +6,6 @@ hide_description: true
 В 2024 году Пасха выпадает на 5 мaя. Приглашаем Вас на праздник !
 
 ![Пасха Все Праздники](/assets/img/paskha_all_holidays.JPG#right)
+![Пасха Мироносицы](/assets/img/paskha_mironositsi.JPG#right)
+ 
 
