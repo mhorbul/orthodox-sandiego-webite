@@ -17,6 +17,6 @@ ________________________________________________________________________________
 
 ![Пасха Все Праздники](/assets/img/paskha_all_holidays.JPG#right)
 
-![Пасха Мироносицы](/assets/img/paskha_mironositsi.JPG#right)
+
  
 
