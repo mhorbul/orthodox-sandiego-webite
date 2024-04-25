@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: Пасха 2024
 description: holidays
 ---
