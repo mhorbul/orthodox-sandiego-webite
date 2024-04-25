@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: Пасха 2024
 ---
 
