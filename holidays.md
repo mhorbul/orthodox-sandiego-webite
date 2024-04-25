@@ -9,4 +9,4 @@ title: Пасха 2024
 
 Приходите к нам и на следующие за Христовой Пасхой праздники Мая :
 
-![Пасха Все Праздники](/assets/img/paskha_all_holidays.JPG#right)
+![Пасха Все Праздники](/assets/img/paskha_all_holidays.JPG)
