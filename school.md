@@ -9,3 +9,12 @@ title: Школьные новости
 Аминь.
 
 ![Школа](/assets/img/coming_soon.jpg#right)
+
+
+
+
+
+
+
+
+
