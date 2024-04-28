@@ -5,7 +5,7 @@ title: Пасха 2024
 
 В 2024 году Пасха выпадает на 5 мaя. Приглашаем Вас на праздник Светлой Пасхи Христовой !
 
-![Страстная Седмица](/assets/img/strastnayasedmica_schedule.JPG)
+![Страстная Седмица](/assets/img/strastnayasedmica.JPG)
 
 ![Расписание](/assets/img/bogosluzheniya.JPG)
 
