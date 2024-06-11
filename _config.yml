@@ -41,8 +41,8 @@ menu:
     url:   /faq/
   #- title: "Куличи и пасхи"
   #  url:   /kulichi/  
-  - title: "Празднуем Пасху"
-    url:   /holidays
+  #- title: "Празднуем Пасху"
+  #  url:   /holidays
 
 ###############################      
 
