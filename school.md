@@ -9,4 +9,4 @@ title: Школьные новости
 Аминь.
 
 
-![Школа](/assets/img/2024-School_Year_Closing_Invite.jpg)
+![Школа](/assets/img/2024-School_Year_Closing_Invite.JPG)
