@@ -7,9 +7,9 @@ title: Престольный праздник
   <div style="flex: 1;">
            Празднуем престольный праздник нашей церкви
 
-    <img src="/assets/img/2024_Prestol_Flyer_Short_RU%20ver2.jpg" alt="Престольный праздник" style="width: 70%;"/>
+    <img src="/assets/img/2024_Prestol_Flyer_Short_RU%20ver2.jpg" alt="Престольный праздник" style="width: 80%;"/>
   </div>
   <div style="flex: 1;">
-    <img src="/assets/img/2024_Prestol_Flyer_Short_EN%20ver2.jpg" alt="Престольный праздник" style="width: 70%;"/>
+    <img src="/assets/img/2024_Prestol_Flyer_Short_EN%20ver2.jpg" alt="Престольный праздник" style="width: 80%;"/>
   </div>
 </div>
