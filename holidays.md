@@ -10,5 +10,4 @@ title: Празднуем Рождество Христово
 </div>
 
 <div style="color: red; font-size: 36px; text-align: center;">
-  Приходите к нам на Рождество Христово!
 </div>
