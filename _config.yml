@@ -33,8 +33,8 @@ menu:
     url:   /donations/
   - title: "Блог"
     url:   /blog/
-  #- title: "Школа"
-  #  url:   /school/
+  - title: "Школа"
+    url:   /school/
   - title: "Наш Храм"
     url:   /
   - title: "Вопросы и Ответы"
