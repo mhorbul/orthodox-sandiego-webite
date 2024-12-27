@@ -3,7 +3,20 @@ layout: page
 title: Школьные новости
 ---
 
-![Школа](/assets/img/2024-School_Year_Closing_Invite.JPG)
+<div style="text-align: center;"> 
+  <table style="margin: 0 auto;">
+    <tr> 
+      <td> 
+        <img src="/assets/img/christmas.JPG" alt="Рождество Христово" style="width: 80%; margin: 20px; border: 2px solid black; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);"/> 
+      </td> 
+      <td> 
+        <img src="/assets/img/christmas_eng.JPG" alt="Рождество Христово" style="width: 80%; margin: 20px; border: 2px solid black; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);"/> 
+      </td>
+    </tr> 
+  </table>
+<div style="color: red; font-size: 36px; text-align: center;">
+</div>
+
 
 Тексты молитвенных прошений [утверждены](http://www.patriarchia.ru/db/text/5610433.html) Святейшим Патриархом Московским и всея Руси Кириллом.
 
