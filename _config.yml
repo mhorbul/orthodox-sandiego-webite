@@ -39,8 +39,8 @@ menu:
     url:   /
   - title: "Вопросы и Ответы"
     url:   /faq/
-  - title: "Calendar"
-    url:   /calendar/
+  #- title: "Calendar"
+  #  url:   /calendar/
   #- title: "Куличи и пасхи"
   #  url:   /kulichi/  
   #- title: "Празднуем Рождество Христово"
