@@ -17,7 +17,7 @@ layout: page
         }
         .full-width-image {
             display: block;
-            width: 100%;
+            width: 400%; /* Make the image four times as wide */
             height: auto;
             margin: 0;
         }
