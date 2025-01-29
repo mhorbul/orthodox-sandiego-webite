@@ -40,7 +40,7 @@ menu:
   - title: "Вопросы и Ответы"
     url:   /faq/
   - title: "Calendar"
-    url: /
+    url:   /calendar/
   #- title: "Куличи и пасхи"
   #  url:   /kulichi/  
   #- title: "Празднуем Рождество Христово"
