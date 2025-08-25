@@ -3,7 +3,8 @@ layout: page
 title: Школьные новости
 ---
 
-                     Д о р о г и е     б р а т ь я     и     с е с т р ы !
+                     Д&nbsp;о&nbsp;р&nbsp;о&nbsp;г&nbsp;и&nbsp;е&nbsp;&nbsp;&nbsp;б&nbsp;р&nbsp;а&nbsp;т&nbsp;ь&nbsp;я&nbsp;&nbsp;&nbsp;и&nbsp;&nbsp;&nbsp;с&nbsp;е&nbsp;с&nbsp;т&nbsp;р&nbsp;ы&nbsp;!
+
 
 С благословения настоятеля приглашаем вас на особый молебен перед началом учебного года, который состоится в нашем храме.
 
