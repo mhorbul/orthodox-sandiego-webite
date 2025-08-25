@@ -3,16 +3,9 @@ layout: page
 title: Школьные новости
 ---
 
-<div style="text-align: center;"> 
-  <table style="margin: 0 auto;">
-    <tr> 
-      <td> 
-        <img src="/assets/img/christmas.JPG" alt="Рождество Христово" style="width: 80%; margin: 20px; border: 2px solid black; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);"/> 
-      </td> 
-      <td> 
-        <img src="/assets/img/christmas_eng.JPG" alt="Рождество Христово" style="width: 80%; margin: 20px; border: 2px solid black; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);"/> 
-      </td>
-    </tr> 
-  </table>
-<div style="color: red; font-size: 36px; text-align: center;">
-</div>
+Д о р о г и е   б р а т ь я   и   с е с т р ы !
+
+С благословения настоятеля приглашаем вас на особый молебен перед началом учебного года, который состоится в нашем храме.
+
+В это непростое время учёбы, экзаменов и жизненных выборов особенно важно укрепляться в вере, просить Божьей помощи и поддержки. Молебен — это возможность вместе обратиться к Господу, испросить мудрости, терпения и духовной силы.
+Присоединяйтесь к нам: Воскресение, 31 августа
