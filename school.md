@@ -16,6 +16,6 @@ title: Школьные новости
 
 Да укрепит вас Господь в знаниях, вере и добрых делах!
 
-![Троица](/assets/img/Andrey_Rublev_Троица.jpg) 
+<img src="/assets/img/Andrey_Rublev_Троица.jpg" alt="Троица" style="max-width: 400px; height: auto;">
 
 
