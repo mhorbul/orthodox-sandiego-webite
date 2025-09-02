@@ -2,5 +2,4 @@
 layout: page
 title: Об'явления
 ---
-
-https://fortrosspilgrimage.org/about 
+ [Форт Росс ](https://fortrosspilgrimage.org/about) 
