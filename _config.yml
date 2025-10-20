@@ -39,14 +39,16 @@ menu:
     url:   /
   - title: "Вопросы и Ответы"
     url:   /faq/
+  - title: "Приходской праздник"
+    url:   /prihod/
   - title: "Об'явления"
     url:   /announcements/  
   #- title: "Calendar"
   #  url:   /calendar/
   #- title: "Куличи и пасхи"
   #  url:   /kulichi/  
-  - title: "Приходской праздник"
-    url:   /holidays
+  #- title: "Приходской праздник"
+  #  url:   /holidays
 
 ###############################      
 
