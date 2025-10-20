@@ -33,8 +33,8 @@ menu:
     url:   /donations/
   - title: "Блог"
     url:   /blog/
-  - title: "Школа"
-    url:   /school/
+  #- title: "Школа"
+  #  url:   /school/
   - title: "Наш Храм"
     url:   /
   - title: "Вопросы и Ответы"
@@ -45,8 +45,8 @@ menu:
   #  url:   /calendar/
   #- title: "Куличи и пасхи"
   #  url:   /kulichi/  
-  #- title: "Празднуем Рождество Христово"
-  #  url:   /holidays
+  - title: "Приходской праздник"
+    url:   /holidays
 
 ###############################      
 
