@@ -3,7 +3,7 @@ layout: page
 title: Приходской праздник
 ---
 
-<div style="color: red; font-size: 40px; text-align: center; margin-top: 20px;">
+<div style="color: red; font-size: 36px; text-align: center; margin-top: 20px;">
   УВАЖАЕМЫЕ ПРИХОЖАНЕ И ГОСТИ НАШЕГО ПРИХОДА!
 </div>
 
