@@ -49,8 +49,8 @@ menu:
     url:   /kulichi/  
   #- title: "Приходской праздник"
   #  url:   /holidays
-  - title: "Паломничество"
-    url:   /palom
+  #- title: "Паломничество"
+  #  url:   /palom
 
 ###############################      
 
