@@ -45,8 +45,8 @@ menu:
     url:   /announcements/  
   #- title: "Calendar"
   #  url:   /calendar/
-  - title: "Куличи и пасхи"
-    url:   /kulichi/  
+  #- title: "Куличи и пасхи"
+  #  url:   /kulichi/  
   #- title: "Приходской праздник"
   #  url:   /holidays
   #- title: "Паломничество"
